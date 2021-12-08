@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS and Laravel
 - 📫 aditdualapan@gmail.com
 
-<img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif" width="300" height="300"/><img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif" width="300" height="300"/><img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif" width="300" height="300"/>
+<img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif" width="300" height="300"/><img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif" width="300" height="300"/>
 
 <!---
 Adtyya/Adtyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
