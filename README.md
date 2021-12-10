@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS and Laravel
 - 📫 aditdualapan@gmail.com
 
-<img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/> <img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/> <img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/> <img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/>
+<img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/> 
 
 <hr>
 <i>"Belajar itu harus, pintar itu bonus"</i>
