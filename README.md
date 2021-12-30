@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Adtyya 
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning React JS and Laravel
-- 📫 aditdualapan@gmail.com
+Hi, Iam Aditya Fitriansyah
 
 <img src="https://c.tenor.com/j0cRhrC6r6IAAAAS/yuru-camp-shima-rin.gif"/> 
 
